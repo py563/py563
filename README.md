@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @py563
+- 👋 Hi, I’m Prajwal.
 - 👀 I’m interested in Teaching, Designing and Developing applications in Java, Python, and ReactJS.
 - 🌱 I’m currently learning Go for working with HUGO framework, NLP, Neural Networks and PCB designing.
 - 📫 You can reach me on My Twitter at @py563.

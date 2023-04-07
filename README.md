@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [Prajwal Y Maredukonda](https://prajwalyashasvi.in)
 
 - 🏢 Founder, Yayin AI Lab & Assistant Professor, Dept of CSE, Vardhaman College of Engineering.
-- 📫 You can find various ways reach me on [keybase](https://keybase.io/prajwalyashasvi) or email me at [work\<AT\>prajwalyashasvi\<DOT\>in](mailto:work@prajwalyashasvi.in).
+- 📫 You can find various ways reach me on [keybase](https://keybase.io/prajwalyashasvi) or email me at ***hello\<AT\>prajwalyashasvi\<DOT\>in***.
 - 👨🏽‍💻 I design and develop applications mostly in Java, Python and React.
 - 🔰 I’m currently learning Go language and PCB designing.
 - 🎒Graduate (MS in Computer Science) at the University of Massachusetts, Lowell.

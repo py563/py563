@@ -8,13 +8,14 @@
 - 👨🏽‍💻 Faculty coordinator for AICTE LITE Program and Google Cloud Education
 - 💞️ I’m looking to collaborate on ...
   
-## Skills
-| Preferred Environment | `Java`, `Python`, `Windows 10`, `WSL2` & `VS Code` |
+| Skills| `Windows 11`, `WSL2` & `VS Code` (Preferred Environment) |
 | ------------- | ----------------------------------------------------------------------------- |
-| In the Loop    | `HTML`, `JavaScript`, `C#`, `VB.Net`, `C`, `C++`, `CSS`,  `PHP`, `Go` |
-| Databases      | `Oracle`, `MySQL`, `OrientDB`, `MongoDB` |
-| Frameworks  | `Struts`, `Hibernate`, `Spring`, `Apache Wicket`, `Django`, `Node`, `ReactJS`, `GatsbyJS`, `HUGO` |
-| Tools            | `Eclipse`, `Git`, `MySQL Workbench`, `Postman`, `Jupyter` |
+| Languages    | `Java`, `Python`, `HTML`, `JavaScript`, `C#`, `PHP`, `VB.Net`, `C`, `C++`, `CSS`, `Go` |
+| Databases      | `MySQL`, `MongoDB`, `Oracle`, `OrientDB`, `Postgres` |
+| Frameworks  | `Apache Wicket`, `Django`, `Gatsby`, `HUGO`, `Hibernate`, `Node`, `React`, `Spring`, `Struts`, `Thymeleaf` |
+| Tools            | `Eclipse`, `Git`, `IntelliJ`, `Jupyter`, `Maven`, `MySQL Workbench`, `Postman` |
+
+![](https://raw.githubusercontent.com/py563/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/py563/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Experience
 

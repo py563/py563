@@ -17,6 +17,8 @@
 
 ![](https://raw.githubusercontent.com/py563/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/py563/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+![](https://raw.githubusercontent.com/py563/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/py563/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ## Experience
 
 ### November 2020 - \* as an Assistant Professor in Computer Science at Vardhaman College of Engineering

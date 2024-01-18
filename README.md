@@ -1,12 +1,13 @@
 # 👋 Hi, I’m [Prajwal Y Maredukonda](https://prajwalyashasvi.in)
 
-- 🏢 Founder, Yayin AI Lab & Assistant Professor, Dept of CSE, Vardhaman College of Engineering.
-- 📫 You can find various ways reach me on [keybase](https://keybase.io/prajwalyashasvi) or email me at ***hello\<AT\>prajwalyashasvi\<DOT\>in***.
-- 👨🏽‍💻 I design and develop applications mostly in Java, Python and React.
-- 🔰 I’m currently learning Go language and PCB designing.
-- 🎒Graduate (MS in Computer Science) at the University of Massachusetts, Lowell.
-- 👨🏽‍💻 Faculty coordinator for AICTE LITE Program and Google Cloud Education
-- 💞️ I’m looking to collaborate on ...
+- 🏢 Co-founder of [Yayin AI Lab](https://yayinailab.tech/) and [A Washed-up Nerd Store](https://awashedupnerd.in/).
+- 📫 You can find various ways to reach me on [keybase](https://keybase.io/prajwalyashasvi).
+- 📫 You can email me at ***hello\<AT\>prajwalyashasvi\<DOT\>in*** or ***prajwal\<AT\>awashedupnerd\<DOT\>in***.
+- 👨🏽‍💻 I design and develop applications mostly in Java, Python, and NodeJS.
+- 🔰 I’m currently learning the Go language and PCB designing.
+- 🎒 Graduated (MS in Computer Science) at the University of Massachusetts, Lowell.
+- 👨🏽‍💻 Assistant Professor, Coordinator for AICTE LITE and Google Cloud Education programs at [Vardhaman College of Engineering](https://vardhaman.org/).
+- 💞️ I’m looking to collaborate on Hugo Themes or research work in Indic Languages.
   
 | Skills| `Windows 11`, `WSL2` & `VS Code` (Preferred Environment) |
 | ------------- | ----------------------------------------------------------------------------- |
@@ -26,11 +27,11 @@
 - Teach courses about **Basics of the IoT** and **Fundamentals of Cybersecurity**.
 - Oversee the design and typical updates for the `WordPress`-based website with the faculty from other departments and the team at the development consultant for the school.
 - Manage the **Microsoft 365** infrastructure.
-- Working on our startup Yayin, developing a makers project at Centre for Innovation and Entrepreneurship.
+- Working on our startup Yayin, developing a makers project at the Centre for Innovation and Entrepreneurship.
 
-### 2018 - \* as a Freelancer, Personal Instructor, Founder at Yayin AI Pvt Ltd
+### 2018 - \* as a Freelancer, Personal Instructor, and Co-Founder at Yayin AI Pvt Ltd
 
-- Designing two makers' projects which are currently in prototyping stages.
+- Designing two makers' projects which are currently in the prototyping stages.
 - R & D for the web application to provide an AI-based personalized travel experience for travelers.
 - Taught `300/400 level` courses on Java, Python, and `100/200` level courses on Information Security.
 - Collaborated with a psychology graduate to implement comprehensive lesson plans that accommodated a student with autism for one-on-one learning sessions.
@@ -42,8 +43,8 @@
 
 #### Threat Learning Platform
 
-- It is a Web-based application prototype for storing and analyzing threat data streams, building entity-relationship models. It also provided data visualizations built through various open-source and internal threat streams.
-- Developed on `Spring 4.x`, `Apache Wicket`, and `ReactJS` frameworks with `OrientDB` database and `Lucene` search Engine.
+- It is a Web-based application prototype for storing and analyzing threat data streams and building entity-relationship models. It also provided data visualizations built through various open-source and internal threat streams.
+- Developed on `Spring 4.x`, `Apache Wicket`, and `ReactJS` frameworks with `OrientDB` database and `Lucene` Search Engine.
 - Forked open-source repository [Stucco](http://stucco.github.io/) and deployed with customizations on `AWS` to collect and parse various threat streams.
 
 #### Threat Awareness & Training
@@ -53,7 +54,7 @@
 
 #### Anti-Phishing Platform
 
-- It is a **Microsoft Outlook** add-on, which notifies users when accessing outlook about suspicious values indicative of phishing by analyzing headers (SPF, DKIM, etc..) and email body.
+- It is a **Microsoft Outlook** add-on, which notifies users when accessing Outlook about suspicious values indicative of phishing by analyzing headers (SPF, DKIM, etc..) and email body.
 - Designed a `C#` component that analyzes email headers. It also allows reporting a phishing email with the analysis result.
 - Developed a `VB.Net` system process that eased interactions with machine learning algorithms written in `Python` and the `C#` component.
 
@@ -70,9 +71,9 @@
 
 > Awarded Master of Sciences degree in Computer Science.
 
-- In Spring 2014, I worked on a machine learning course [project](https://github.com/sushilraje8/SentimentalAnalysis-shared) that performed sentimental analysis on movie reviews and predicted the review rating.
-- In Summer 2014, I interned at GrateCare an MIT-based startup for nine weeks.
-- In Fall 2014, developed an `Android` [application](https://github.com/py563/AndroidProject) for students to post classifieds about books with auto price suggestions, The application could scan ISBN codes to give suggestions about prices and autofill fields. It also allowed students to send a request for buying the book.
+- In the Spring of 2014, I worked on a machine learning course [project](https://github.com/sushilraje8/SentimentalAnalysis-shared) that performed sentimental analysis on movie reviews and predicted the review rating.
+- In the Summer of 2014, I interned at GrateCare an MIT-based startup for nine weeks.
+- In Fall 2014, developed an `Android` [application](https://github.com/py563/AndroidProject) for students to post classifieds about books with auto price suggestions, The application could scan ISBN codes to give suggestions about prices and autofill fields. It also allowed students to send a request to buy the book.
 - In Spring 2015, I developed a `Python`-based web application on **20 Questions Game** for the `AI` coursework.
 
 ### 2012 - 2013 as an Associate Software Engineer at Tech Mahindra
@@ -84,12 +85,12 @@
 #### Integrated Test Data Management
 
 - It is a tool to support test data generation for projects, fulfill the test data requirements, and upload the data into different environments. It was developed on `Spring MVC` and `Spring-JDBC` framework modules.
-- Designed user interface as `JSP`, `HTML`, `XML`, `CSS3`, `AJAX`-based pages for Ticket Creation and Status Check modules.
+- Designed user interface as `JSP`, `HTML`, `XML`, `CSS3`, and `AJAX`-based pages for Ticket Creation and Status Check modules.
 - Developed unit test cases, designed database schemas, and validated data with `MySQL` queries.
 
 ### 2007 - 2011 as a Student at the Balaji Institute of Technology and Sciences
 
-> Awarded Bachelors degree in Computer science & engineering from Jawaharlal Nehru Technological University.
+> Awarded bachelor's degree in Computer science & engineering from Jawaharlal Nehru Technological University.
 
 - In Spring 2009, I designed `HTML` pages, `SQL` queries, and database schemas for a web-based discussion forum project developed on `ASP.Net` framework for the students and professors in the school.
 - In Fall 2010, presented a paper on **Semantic Deep Web** at IIIT Hyderabad, India.
@@ -102,12 +103,12 @@
 - Completed a Web designing certification course at Inspire GEC, Bangalore in 2012.
 
 ## Memberships 
-- ACM 
-- Was a member of MSDN Dream Spark Program.
+- ACM & CSTA
+- Was a member of the MSDN Dream Spark Program.
 
 ## Research Interests
 
-- Machine Learning & `AI`, `Information Security`, `NLP` for Aryan and Dravidian Languages & Travel.
+- Machine Learning & `AI`, `Information Security`, and `NLP` for Aryan and Dravidian Languages & Travel.
 
 
 <!---

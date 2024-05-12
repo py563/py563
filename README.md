@@ -39,7 +39,7 @@
 - Collaborated with a psychology graduate to implement comprehensive lesson plans that accommodated a student with autism for one-on-one learning sessions.
 - Pursued **Masters in Information Systems Management** at Trine University from Spring 2018 to Fall 2019.
 
-### JAN 2018 – MAY 2018 as a Java Developer at Dataserv Inc.
+### Jan – May 2018 as a Java Developer at Dataserv Inc.
 
 - Resolved bugs and defects in a Java application built with `Spring Boot` and `React.js` frameworks.
 - Utilized Maps to store data in `JSON` format for API interactions.

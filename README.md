@@ -22,20 +22,28 @@
 
 ## Experience
 
-### November 2020 - \* as an Assistant Professor in Computer Science at Vardhaman College of Engineering
+### November 2020 - \* as a Full Stack Developer & Assistant Professor at Vardhaman College of Engineering
 
-- Teach courses about **Basics of the IoT** and **Fundamentals of Cybersecurity**.
-- Oversee the design and typical updates for the `WordPress`-based website with the faculty from other departments and the team at the development consultant for the school.
-- Manage the **Microsoft 365** infrastructure.
-- Working on our startup Yayin, developing a makers project at the Centre for Innovation and Entrepreneurship.
+- Designed, Developed and Maintained various `WordPress`, `HUGO`, and `GatsbyJS` websites in the organization.
+- Manage the `Microsoft 365` environment & infrastructure of the organization.
+- Taught undergraduate courses on the Basics of the Internet of Things, `Cloud Computing` and Virtualization, and Fundamentals of Cybersecurity.
+- Program Coordinator for `Google Cloud` Career Advancement program and AICTE LITE Pupilfirst Web Development Minor Program.
 
-### 2018 - \* as a Freelancer, Personal Instructor, and Co-Founder at Yayin AI Pvt Ltd
+### Jun 2018 - \* as a Freelancer and Co-Founder at Yayin AI Pvt. Ltd.
 
+- Delivered a module for the ***Indian Oil*** Corp.’s Swadyamitra project using `Spring Boot` and `Thymeleaf` frameworks in April 2023.
+- As a Microsoft Solutions Partner, we equip partners with the resources needed to build their AI & Cloud solutions.
 - Designing two makers' projects which are currently in the prototyping stages.
 - R & D for the web application to provide an AI-based personalized travel experience for travelers.
 - Taught `300/400 level` courses on Java, Python, and `100/200` level courses on Information Security.
 - Collaborated with a psychology graduate to implement comprehensive lesson plans that accommodated a student with autism for one-on-one learning sessions.
 - Pursued **Masters in Information Systems Management** at Trine University from Spring 2018 to Fall 2019.
+
+### JAN 2018 – MAY 2018 as a Java Developer at Dataserv Inc.
+
+- Resolved bugs and defects in a Java application built with `Spring Boot` and `React.js` frameworks.
+- Utilized Maps to store data in `JSON` format for API interactions.
+- Developed a helper module for `JSON` conversion into a tree structure and element insertion.
 
 ### 2016 - 2017 as a Cyber Security Researcher at Koninklijke Philips N.V.
 

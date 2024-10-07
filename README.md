@@ -6,7 +6,7 @@
 - 👨🏽‍💻 I design and develop applications mostly in Java, Python, and NodeJS.
 - 🔰 I’m currently learning the Go language and PCB designing.
 - 🎒 Graduated (MS in Computer Science) at the University of Massachusetts, Lowell.
-- 👨🏽‍💻 Assistant Professor, Coordinator for AICTE LITE and Google Cloud Education programs at [Vardhaman College of Engineering](https://vardhaman.org/).
+- 👨🏽‍💻 Part-Time Assistant Professor, Coordinator for AICTE LITE and Google Cloud Education programs at [Vardhaman College of Engineering](https://vardhaman.org/).
 - 💞️ I’m looking to collaborate on Hugo Themes or research work in Indic Languages.
   
 | Skills| `Windows 11`, `WSL2` & `VS Code` (Preferred Environment) |

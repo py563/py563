@@ -22,14 +22,24 @@
 
 ## Experience
 
+### AUG 2024 - * AS A PYTHON DEVELOPER AT BLUE OCEAN STRATEGIC PARTNERS.
+> Remote Role - Robotic Process Automation (RPA); Clients: Highgate, Cedar Hill Prep.
+
+- Maintain the Python-based bot which automates tasks like Biweekly and End of Month (EoM) report generation for the Purchase Card Transactions in all Full-Service hotels managed by Highgate, creating and uploading EoM Journal Entries (JE) to an Oracle Financials general ledger.
+- Developed an enhancement to the Python bot which replicates the existing Full-Service RPA tasks to Select Service hotels managed by Highgate.
+- Maintain the Python-based RPA Bot which automates the enrollment, generating and dispatching the school fee invoices. It is integrated with Xero accounting software and the Gradelink Student Information System.
+
 ### November 2020 - \* as a Full Stack Developer & Assistant Professor at Vardhaman College of Engineering
 
-- Designed, Developed and Maintained various `WordPress`, `HUGO`, and `GatsbyJS` websites in the organization.
+> Part-Time (from Aug 2024)
+
+- Designed, Developed and Maintained various `WordPress`, `Hugo`, and `Gatsby.js` websites in the organization.
 - Manage the `Microsoft 365` environment & infrastructure of the organization.
 - Taught undergraduate courses on the Basics of the Internet of Things, `Cloud Computing` and Virtualization, and Fundamentals of Cybersecurity.
 - Program Coordinator for `Google Cloud` Career Advancement program and AICTE LITE Pupilfirst Web Development Minor Program.
 
-### Jun 2018 - \* as a Freelancer and Co-Founder at Yayin AI Pvt. Ltd.
+### Jun 2018 - \* as a Co-Founder at Yayin AI Lab Pvt. Ltd.
+> Web Development, Microsoft Solutions Partner, PCB design and fabrication.
 
 - Delivered a module for the ***Indian Oil*** Corp.’s Swadyamitra project using `Spring Boot` and `Thymeleaf` frameworks in April 2023.
 - As a Microsoft Solutions Partner, we equip partners with the resources needed to build their AI & Cloud solutions.
@@ -40,6 +50,7 @@
 - Pursued **Masters in Information Systems Management** at Trine University from Spring 2018 to Fall 2019.
 
 ### Jan – May 2018 as a Java Developer at Dataserv Inc.
+> C2C Role - Client: Data Song, Nashua, NH, USA.
 
 - Resolved bugs and defects in a Java application built with `Spring Boot` and `React.js` frameworks.
 - Utilized Maps to store data in `JSON` format for API interactions.

@@ -29,11 +29,11 @@
 - Developed an enhancement to the Python bot which replicates the existing Full-Service RPA tasks to Select Service hotels managed by Highgate.
 - Maintain the Python-based RPA Bot which automates the enrollment, generating and dispatching the school fee invoices. It is integrated with Xero accounting software and the Gradelink Student Information System.
 
-### November 2020 - \* as a Full Stack Developer & Assistant Professor at Vardhaman College of Engineering
+### November 2020 - March 2025 as a Full Stack Developer & Assistant Professor at Vardhaman College of Engineering
 
 > Part-Time (from Aug 2024)
 
-- Designed, Developed and Maintained various `WordPress`, `Hugo`, and `Gatsby.js` websites in the organization.
+- Designed, developed and maintained various `WordPress`, `Hugo`, and `Gatsby.js` websites in the organization.
 - Manage the `Microsoft 365` environment & infrastructure of the organization.
 - Taught undergraduate courses on the Basics of the Internet of Things, `Cloud Computing` and Virtualization, and Fundamentals of Cybersecurity.
 - Program Coordinator for `Google Cloud` Career Advancement program and AICTE LITE Pupilfirst Web Development Minor Program.
@@ -43,11 +43,11 @@
 
 - Delivered a module for the ***Indian Oil*** Corp.’s Swadyamitra project using `Spring Boot` and `Thymeleaf` frameworks in April 2023.
 - As a Microsoft Solutions Partner, we equip partners with the resources needed to build their AI & Cloud solutions.
-- Designing two makers' projects which are currently in the prototyping stages.
-- R & D for the web application to provide an AI-based personalized travel experience for travelers.
+- Designing two makers' projects, which are currently in the prototyping stages.
+- R&D for the web application to provide an AI-based personalized travel experience for travelers.
 - Taught `300/400 level` courses on Java, Python, and `100/200` level courses on Information Security.
 - Collaborated with a psychology graduate to implement comprehensive lesson plans that accommodated a student with autism for one-on-one learning sessions.
-- Pursued **Masters in Information Systems Management** at Trine University from Spring 2018 to Fall 2019.
+- Pursued **Master's in Information Systems Management** at Trine University from Spring 2018 to Fall 2019.
 
 ### Jan – May 2018 as a Java Developer at Dataserv Inc.
 > C2C Role - Client: Data Song, Nashua, NH, USA.
@@ -83,16 +83,16 @@
 
 - Fix defects through `CA Harvest` tickets in the existing system codebase. It was designed on `JSP`, `Servlets`, `JDBC` modules, and `Oracle 12c` as the database. It followed `MVC` architecture.
 - Enhanced the existing NHUIS to reflect the updated United States Labor Department RESEA program.
-- Document and Redesign the help section for NHIUS using `Adobe Robohelp` and supporting **Section 508** and **W3C standards**.
+- Document and redesign the help section for NHIUS using `Adobe Robohelp` and supporting **Section 508** and **W3C standards**.
 - Rewriting the codebase of the existing system to modern frameworks viz: `Spring` and `Hibernate ORM`.
 
 ### 2013 - 2015 as a Graduate Student at the University of Massachusetts, Lowell
 
-> Awarded Master of Sciences degree in Computer Science.
+> Awarded Master of Science degree in Computer Science.
 
 - In the Spring of 2014, I worked on a machine learning course [project](https://github.com/sushilraje8/SentimentalAnalysis-shared) that performed sentimental analysis on movie reviews and predicted the review rating.
-- In the Summer of 2014, I interned at GrateCare an MIT-based startup for nine weeks.
-- In Fall 2014, developed an `Android` [application](https://github.com/py563/AndroidProject) for students to post classifieds about books with auto price suggestions, The application could scan ISBN codes to give suggestions about prices and autofill fields. It also allowed students to send a request to buy the book.
+- In the Summer of 2014, I interned at GrateCare, an MIT-based startup, for nine weeks.
+- In Fall 2014, developed an `Android` [application](https://github.com/py563/AndroidProject) for students to post classifieds about books with auto price suggestions. The application could scan ISBN codes to give suggestions about prices and autofill fields. It also allowed students to send a request to buy the book.
 - In Spring 2015, I developed a `Python`-based web application on **20 Questions Game** for the `AI` coursework.
 
 ### 2012 - 2013 as an Associate Software Engineer at Tech Mahindra
@@ -119,7 +119,7 @@
 
 - Participated in a three-week faculty development program at KL University on **Research Perspectives on AI, ML, Data Science, and IoT**.
 - Certified as `Hibernate ORM` Level 1 developer from Tech Mahindra.
-- Completed a Web designing certification course at Inspire GEC, Bangalore in 2012.
+- Completed a Web design certification course at Inspire GEC, Bangalore in 2012.
 
 ## Memberships 
 - ACM & CSTA
